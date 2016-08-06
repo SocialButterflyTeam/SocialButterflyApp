@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocialButterfly</string>
+    <string name="strSendPacket">Send Packet</string>
+</resources>
